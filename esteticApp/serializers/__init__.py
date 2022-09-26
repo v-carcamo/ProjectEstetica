@@ -1,0 +1,4 @@
+from .clienteSerializer import ClienteSerializer
+from .ventaSerializer import VentaSerializer
+from .productoSerilizer import ProductoSerializer
+from .servicioSerializer import ServicioSerializer
